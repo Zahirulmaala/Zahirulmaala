@@ -188,7 +188,7 @@ function sendWhatsAppMessage() {
 
     var message = "Terima kasih atas pesanan Anda, " + namaPembeli + "!\nBerikut detail pesanan Anda:\nMenu 1: " + menu1 + "\nMenu 2: " + menu2 + "\nMenu 3: " + menu3 + "\nAlamat pengiriman: " + alamat + "\n\nPesanan Anda akan segera kami proses.";
 ;
-    var loveEmoji = "❤️";
+    
 
     // Ganti nomor WhatsApp sesuai kebutuhan
     var phoneNumber = "6281225858050";
